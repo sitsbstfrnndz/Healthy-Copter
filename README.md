@@ -18,6 +18,7 @@ Healthy Copter is an engaging and educational game designed to promote healthy e
 - **Robust Design:** Incorporates design patterns such as Singleton, Factory, and Strategy to manage game components like audio, collisions, and AI behavior efficiently.
 
 ### Technical Highlights
+[UML OOP](https://github.com/sitsbstfrnndz/Healthy-Copter/files/15360581/UML.OOP.V1.pdf)
 - **SOLID Principles:** Adheres strictly to SOLID principles for OOP to ensure a clean and scalable architecture.
 - **Design Patterns:** Extensively uses patterns like Factory for entity and scene creation, Singleton for audio management, and Strategy for dynamic AI behavior.
 - **Error Handling and Validation:** Implements advanced error handling and input validation to ensure robustness and resilience of the game engine.
@@ -34,5 +35,4 @@ Healthy Copter is open-sourced under the MIT license. See the LICENSE file for m
 
 ---
 
-This README provides pote[UML OOP V1.pdf](https://github.com/sitsbstfrnndz/Healthy-Copter/files/15360581/UML.OOP.V1.pdf)
-ntial contributors and users with a clear view of what the project is about, its key features, and how to get involved. Adjustments can be made to suit more technical details or broader project descriptions as necessary.
+This README provides potential contributors and users with a clear view of what the project is about, its key features, and how to get involved. Adjustments can be made to suit more technical details or broader project descriptions as necessary.
