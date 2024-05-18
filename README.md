@@ -4,11 +4,14 @@ Based on the provided documents, here is a concise summary for your GitHub READM
 
 ## 🚁 Healthy Copter: A Game for Learning Healthy Eating Habits
 
+![image](https://github.com/sitsbstfrnndz/Healthy-Copter/assets/169112853/3c07edfc-cb35-4b1b-9f2f-a0795a9fc0fe)
+
 ### Project Overview
 Healthy Copter is an engaging and educational game designed to promote healthy eating habits among children. Developed as part of our Object-Oriented Programming (OOP) course, this game combines solid OOP principles, design patterns, and architectural frameworks to offer a robust, scalable, and maintainable codebase.
 
 ### Features
 - **Engaging Gameplay:** Navigate through a kitchen with a helicopter hat, collecting nutritious items like broccoli and carrots while avoiding unhealthy treats and obstacles.
+![image](https://github.com/sitsbstfrnndz/Healthy-Copter/assets/169112853/e005f28f-4bc4-434a-a880-0d1b2c0ef63a)
 - **Educational Impact:** Teaches children the importance of healthy eating in a fun and interactive way.
 - **Scalable Game Engine:** Designed to easily integrate new entities, scenes, and assets without major modifications.
 - **Reusability and Modularity:** Utilizes interfaces and abstract classes to enhance code reusability across different parts of the game.
@@ -31,4 +34,5 @@ Healthy Copter is open-sourced under the MIT license. See the LICENSE file for m
 
 ---
 
-This README provides potential contributors and users with a clear view of what the project is about, its key features, and how to get involved. Adjustments can be made to suit more technical details or broader project descriptions as necessary.
+This README provides pote[UML OOP V1.pdf](https://github.com/sitsbstfrnndz/Healthy-Copter/files/15360581/UML.OOP.V1.pdf)
+ntial contributors and users with a clear view of what the project is about, its key features, and how to get involved. Adjustments can be made to suit more technical details or broader project descriptions as necessary.
